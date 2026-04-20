@@ -264,23 +264,5 @@
 
 # University of Zimbabwe | 2026
 
-# ```
 
-# 
-
-# \---
-
-# 
-
-# \*\*Once saved, your repo folder should have:\*\*
-
-# ```
-
-# 📁 retail-sales-analysis/
-
-# &#x20;  📄 retail\_sales\_analysis.ipynb  ✅
-
-# &#x20;  📄 retail\_sales\_dataset.csv     ✅
-
-# &#x20;  📄 README.md                    ← paste this
 
